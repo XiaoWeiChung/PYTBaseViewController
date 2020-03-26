@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - PYTBaseViewController (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - PYTBaseViewController (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  PYTBaseViewController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  PYTBaseViewController: 1193ab71e29abd9f1e742f078adaab5fb6f8064c
+
+PODFILE CHECKSUM: ac84f25050da5adb9e8da97e81e9b959442ac3b0
+
+COCOAPODS: 1.9.1

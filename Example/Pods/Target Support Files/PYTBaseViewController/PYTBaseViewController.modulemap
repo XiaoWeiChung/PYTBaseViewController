@@ -1,0 +1,6 @@
+framework module PYTBaseViewController {
+  umbrella header "PYTBaseViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}
